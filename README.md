@@ -1,0 +1,1 @@
+check out this practice website I made for skills usa. take a look at the css/html code to get an idea of an ideal website design. also try cloning this repository into vscode to see the way the site looks.
